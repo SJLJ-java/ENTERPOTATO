@@ -8,3 +8,5 @@ How Github works
       -Stage all  
   -Down arrow next to commit  
     -Commit and push  
+  -In the page that opens add a description or title. (DO NOT MAKE THIS A COMMENT).   
+  -close the page
