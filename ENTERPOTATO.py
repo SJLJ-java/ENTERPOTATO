@@ -181,7 +181,6 @@ def battleKatTut(battleSet):
   """INTRO TEXT"""
   print("Kat Tut Is Unbelievably Powerful! *BOSS ENEMY*\n")
   print('"I am the best Peggle master"\n')
-  print('"Prepare to lose!" - Dessert Potato\n')
   print("Press 'Enter' to continue\n")
   pyip.inputNum(blank = True)
   time.sleep(2.5)
